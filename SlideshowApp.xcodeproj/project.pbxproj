@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4D7BE6C22006F60008AB2F8 /* author.png in Resources */ = {isa = PBXBuildFile; fileRef = F4D7BE6B22006F60008AB2F8 /* author.png */; };
+		F4D7BE6E22006F71008AB2F8 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = F4D7BE6D22006F71008AB2F8 /* bg.png */; };
+		F4D7BE7022006F86008AB2F8 /* face.png in Resources */ = {isa = PBXBuildFile; fileRef = F4D7BE6F22006F86008AB2F8 /* face.png */; };
 		F4E2AB9421F3E3A400A45E0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E2AB9321F3E3A400A45E0F /* AppDelegate.swift */; };
 		F4E2AB9621F3E3A400A45E0F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E2AB9521F3E3A400A45E0F /* ViewController.swift */; };
 		F4E2AB9921F3E3A400A45E0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4E2AB9721F3E3A400A45E0F /* Main.storyboard */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F4D7BE6B22006F60008AB2F8 /* author.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = author.png; sourceTree = "<group>"; };
+		F4D7BE6D22006F71008AB2F8 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		F4D7BE6F22006F86008AB2F8 /* face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face.png; sourceTree = "<group>"; };
 		F4E2AB9021F3E3A400A45E0F /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E2AB9321F3E3A400A45E0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4E2AB9521F3E3A400A45E0F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				F4E2AB9C21F3E3A500A45E0F /* LaunchScreen.storyboard */,
 				F4E2AB9F21F3E3A500A45E0F /* Info.plist */,
 				F4E2ABA521F3ED1900A45E0F /* ResultViewController.swift */,
+				F4D7BE6B22006F60008AB2F8 /* author.png */,
+				F4D7BE6D22006F71008AB2F8 /* bg.png */,
+				F4D7BE6F22006F86008AB2F8 /* face.png */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -125,6 +134,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4D7BE6E22006F71008AB2F8 /* bg.png in Resources */,
+				F4D7BE6C22006F60008AB2F8 /* author.png in Resources */,
+				F4D7BE7022006F86008AB2F8 /* face.png in Resources */,
 				F4E2AB9E21F3E3A500A45E0F /* LaunchScreen.storyboard in Resources */,
 				F4E2AB9B21F3E3A500A45E0F /* Assets.xcassets in Resources */,
 				F4E2AB9921F3E3A400A45E0F /* Main.storyboard in Resources */,
